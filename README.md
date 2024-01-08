@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tomás Mendes</h1>
+<h1 align="center">Hi 👋, I'm Tomás</h1>
 <h3 align="center">Engineer and Tech Entusiast</h3>
 
 - 👨‍💻 Currently working at **Uphold**
