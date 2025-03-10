@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tomás</h1>
 <h3 align="center">Engineer and Tech Entusiast</h3>
 
-- 👨‍💻 Currently working at **Uphold**
+- 👨‍💻 Software engineer - currently working at **Uphold**
 
 - 💻 MSc in Informatics and Computer Engineering at **FEUP**
 
