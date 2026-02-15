@@ -7,4 +7,4 @@
 
 - 💬 Other areas of interest and hobbies: **Cinema, Sports, Travelling**
 
-- 📫 If you wish to know more about me, check out my [website](https://tomas-mendes.tech/) or message me directly on [LinkedIn](https://www.linkedin.com/in/tomasmendes08/).
+- 📫 If you wish to know more about me, check out my [website](https://tomas-mendes.tech/) or message me directly on [LinkedIn](https://www.linkedin.com/in/tomasmendes08/)
