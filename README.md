@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tomás</h1>
 <h3 align="center">Engineer and Tech Entusiast</h3>
 
-- 👨‍💻 Software engineer - currently working at **Be Your Best**
+- 👨‍💻 Software engineer - currently working at **Riskified**
 
 - 💻 MSc in Informatics and Computer Engineering at **FEUP**
 
